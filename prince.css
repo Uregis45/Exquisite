@@ -11,6 +11,16 @@ body {
   background: #f5f7fa;
 }
 
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+p {
+    text-align: center;
+    font-size: 18px;
+}
+
 /* Header */
 .header {
   background: #4a6cf7;
